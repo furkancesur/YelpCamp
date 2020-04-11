@@ -1,0 +1,13 @@
+# Project exclude paths
+/v1/node_modules/
+/v2/node_modules/
+/v3/node_modules/
+/v4/node_modules/
+/v5/node_modules/
+/v6/node_modules/
+/v7/node_modules/
+/v8/node_modules/
+/v9/node_modules/
+/v10/node_modules/
+/v11/node_modules/
+/v12/node_modules/
